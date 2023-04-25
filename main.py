@@ -1,6 +1,6 @@
 # Author: Aljosa Janjic
 # Date: 2023-04
-# Version: 1.0.1
+# Version: 1.0.2
 
 import json
 import time
